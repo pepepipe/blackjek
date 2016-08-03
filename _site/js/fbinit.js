@@ -32,13 +32,13 @@
   }
 
   window.fbAsyncInit = function() {
-  FB.init({
-    appId      : '{your-app-id}',
-    cookie     : true,  // enable cookies to allow the server to access
-                        // the session
-    xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.5' // use graph api version 2.5
-  });
+    FB.init({
+      appId      : '1048331315244883',
+      cookie     : true,  // enable cookies to allow the server to access
+                          // the session
+      xfbml      : true,  // parse social plugins on this page
+      version    : 'v2.7' // use graph api version 2.5
+    });
 
   // Now that we've initialized the JavaScript SDK, we call
   // FB.getLoginStatus().  This function gets the state of the
