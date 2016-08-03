@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/blackjek/</link>
-    <atom:link href="http://yourdomain.com/blackjek/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Aug 2016 12:19:42 +0300</pubDate>
-    <lastBuildDate>Wed, 03 Aug 2016 12:19:42 +0300</lastBuildDate>
+    <link>http://pepepipe.github.io/blackjek/</link>
+    <atom:link href="http://pepepipe.github.io/blackjek/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Aug 2016 16:25:38 +0300</pubDate>
+    <lastBuildDate>Wed, 03 Aug 2016 16:25:38 +0300</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
       <item>
@@ -27,36 +27,24 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Aug 2016 13:30:37 +0300</pubDate>
-        <link>http://yourdomain.com/blackjek/jekyll/update/2016/08/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blackjek/jekyll/update/2016/08/01/welcome-to-jekyll.html</guid>
+        <link>http://pepepipe.github.io/blackjek/without/2016/08/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://pepepipe.github.io/blackjek/without/2016/08/01/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>without</category>
         
       </item>
     
       <item>
         <title>happiness everywhere!</title>
-        <description>&lt;p&gt;fuck-you&lt;/p&gt;
-
-&lt;p&gt;fuck-you-bitch&lt;/p&gt;
-
-&lt;p&gt;for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;http://asdfasdf.sad&quot;&gt;идите в жопу&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;http://asdfasdf.sad&quot;&gt;идите в жопу&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Jul 2016 13:30:37 +0300</pubDate>
-        <link>http://yourdomain.com/blackjek/without/catafalk/2016/07/28/fuck-you-bitch.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blackjek/without/catafalk/2016/07/28/fuck-you-bitch.html</guid>
-        
-        <category>fuck-you</category>
-        
-        <category>fuck-you-bitch</category>
+        <link>http://pepepipe.github.io/blackjek/without/2016/07/28/fuck-you-bitch.html</link>
+        <guid isPermaLink="true">http://pepepipe.github.io/blackjek/without/2016/07/28/fuck-you-bitch.html</guid>
         
         
         <category>without</category>
-        
-        <category>catafalk</category>
         
       </item>
     

@@ -2,8 +2,7 @@
 layout: post
 title:  "happiness everywhere!"
 date:   2016-07-28 13:30:37 +0300
-categories: without catafalk
-tags: fuck-you fuck-you-bitch
+categories: without
 ---
 
 {% for tag in page.tags %}
